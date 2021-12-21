@@ -1,0 +1,79 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+.orange-bg{
+    background-color: #fcecea;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #ff136f;
+}
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.cat-1{
+    background-color: orange;
+}
+
+.cat-2{
+    background-color: purple;
+}
+
+.cat-3{
+    background-color: blue;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.footer{
+    height: 350px;
+}
+
+.footer div{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+
+input{
+    border-radius: 20px 0px 0px 20px;
+    border: 2px solid #f872a6;
+    width: 300px;
+    height: 42px;
+    background-color: none;
+}
+
+.submit{
+    border-radius: 0px 20px 20px 0px;
+}
